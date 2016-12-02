@@ -4,7 +4,7 @@
     <head>
         <jsp:include page="includes/head.jsp" />
         <link href="Assets/css/dashboard.css" rel="stylesheet" type="text/css">
-        <title>Dashboard</title>
+        <title>Dashboard | Movies</title>
     </head>
     <body style="padding-top: 60px;">
         <jsp:include page="includes/navbarDashboard.jsp" />
